@@ -141,3 +141,7 @@ ALSO:  Day 25 = one quarter of the way to the goal of 100 days. 100 Days of Code
 ## Day 29 2/2/2017
 
 **Today's progress:** Trying to get all my projects organized so that they're consistent between laptop and desktop, plus various IDEs and hosting platforms I've been using. Being disorganized has cost me too much time and confusion when I just want to be coding!
+
+## Day 30 2/3/2017
+
+**Today's progress:** Worked through more of FCC's Basic JS section. Spent most of the time on the Profile Lookup exercise, which was quite challenging. It clarified that I had not adequately internalized how to access arrays nested within objects -- i.e., the syntax thereof. 
