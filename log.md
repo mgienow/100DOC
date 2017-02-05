@@ -157,3 +157,4 @@ ALSO:  Day 25 = one quarter of the way to the goal of 100 days. 100 Days of Code
 link to the work: https://www.codewars.com/kata/title-case/train/javascript
 
 And alsot rying to replicate a git commit snafu so i can solve it
+But of course
