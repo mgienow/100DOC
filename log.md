@@ -144,4 +144,8 @@ ALSO:  Day 25 = one quarter of the way to the goal of 100 days. 100 Days of Code
 
 ## Day 30 2/3/2017
 
-**Today's progress:** Worked through more of FCC's Basic JS section. Spent most of the time on the Profile Lookup exercise, which was quite challenging. It clarified that I had not adequately internalized how to access arrays nested within objects -- i.e., the syntax thereof. 
+**Today's progress:** Worked through more of FCC's Basic JS section. Spent most of the time on the Profile Lookup exercise, which was quite challenging. It clarified that I had not adequately internalized how to access arrays nested within objects -- i.e., the syntax thereof.
+
+## Day 31 2/4/2017
+
+**Today's progress:** Very productive day! Finished FCC basic javascript course and moved into Object Oriented Programming section. Played around with a codewars kata (Title Case) but not able to solve it all the way.
