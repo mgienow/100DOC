@@ -149,3 +149,9 @@ ALSO:  Day 25 = one quarter of the way to the goal of 100 days. 100 Days of Code
 ## Day 31 2/4/2017
 
 **Today's progress:** Very productive day! Finished FCC basic javascript course and moved into Object Oriented Programming section. Played around with a codewars kata (Title Case) but not able to solve it all the way.
+
+## Day 32 2/5/2017
+
+**Today's progress:** Still hacking away at the Title Case kata -- much closer to a working solution. Today's Free Code Camp studying -- object oriented programming and the .map() method for arrays -- came at a fortuitous time for this challenge!
+
+link to the work: https://www.codewars.com/kata/title-case/train/javascript
