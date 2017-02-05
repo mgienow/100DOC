@@ -155,3 +155,5 @@ ALSO:  Day 25 = one quarter of the way to the goal of 100 days. 100 Days of Code
 **Today's progress:** Still hacking away at the Title Case kata -- much closer to a working solution. Today's Free Code Camp studying -- object oriented programming and the .map() method for arrays -- came at a fortuitous time for this challenge!
 
 link to the work: https://www.codewars.com/kata/title-case/train/javascript
+
+And alsot rying to replicate a git commit snafu so i can solve it
