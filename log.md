@@ -157,3 +157,8 @@ ALSO:  Day 25 = one quarter of the way to the goal of 100 days. 100 Days of Code
 link to the work: https://www.codewars.com/kata/title-case/train/javascript
 
 And also trying to replicate a git commit snafu so i can solve it. But of course I can't because the car never makes the bad sounding noise when the mechanic is looking at it.
+
+##Day 33 2/6/2017
+**Today's progress:** figuring out how to deploy web apps from github onto netlify.  pretty cool stuff!
+
+link to the work: http://quality-controller-lizard-28567.netlify.com/index.html
