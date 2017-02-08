@@ -167,3 +167,8 @@ link to the work: http://quality-controller-lizard-28567.netlify.com/index.html
 **Today's progress:** Earlier: worked on FCC object oriented programming module. Later: at Betamore Academy for github smackdown, i mean, learning to finally branch clone and merge like a champ.
 
 link to the work: https://github.com/mgienow/
+
+##Day 35 2/8/2017
+**Today's progress:** Finished FCC OOP section and finally on to Basic JavaScript Alogrithm challenges!  W00t!  Set up a github repo to host my solutions and track my progress!
+
+link to the work: https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting
