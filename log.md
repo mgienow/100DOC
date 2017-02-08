@@ -162,3 +162,8 @@ And also trying to replicate a git commit snafu so i can solve it. But of course
 **Today's progress:** figuring out how to deploy web apps from github onto netlify.  pretty cool stuff!
 
 link to the work: http://quality-controller-lizard-28567.netlify.com/index.html
+
+##Day 34 2/7/2017
+**Today's progress:** Earlier: worked on FCC object oriented programming module. Later: at Betamore Academy for github smackdown, i mean, learning to finally branch clone and merge like a champ.
+
+link to the work: https://github.com/mgienow/
