@@ -172,3 +172,9 @@ link to the work: https://github.com/mgienow/
 **Today's progress:** Finished FCC OOP section and finally on to Basic JavaScript Alogrithm challenges!  W00t!  Set up a github repo to host my solutions and track my progress!
 
 link to the work: https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting
+
+##Day 36 2/9/2017
+**Today's progress:** Solved Palindrome algo challenge, worked on learning proper pull request workflow on GitHub. Still struggling with GH -- just not intuitive for me, but it is getting better with repetition and exposure. Muscle memory!
+
+link to the work:
+https://github.com/mgienow/fewd-pull-request-exercise/tree/addMyName
