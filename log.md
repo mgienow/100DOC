@@ -178,3 +178,6 @@ link to the work: https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scri
 
 link to the work:
 https://github.com/mgienow/fewd-pull-request-exercise/tree/addMyName
+
+##Day 37 2/10/2017
+**Today's progress:** Solved an FCC challenge I'd been stuck on since yesterday, and then another one right after in record time. Felt very good!  
