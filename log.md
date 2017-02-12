@@ -180,4 +180,13 @@ link to the work:
 https://github.com/mgienow/fewd-pull-request-exercise/tree/addMyName
 
 ##Day 37 2/10/2017
-**Today's progress:** Solved an FCC challenge I'd been stuck on since yesterday, and then another one right after in record time. Felt very good!  
+**Today's progress:** Solved an FCC challenge I'd been stuck on since yesterday, and then another one right after in record time. Felt very good!  Also: got a compliment on how well I comment my code.
+
+link to the work:
+https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/2902992a3484190f337ad67b76e769658fd82490
+
+##Day 38 2/11/2017
+**Today's progress:** Another day, another FCC basic JS algorithm solved. Also: went to node school meet up and learned me some node!
+
+link to the work:
+https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/return_largest_number_in_arrays.js
