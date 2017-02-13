@@ -190,3 +190,9 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/29029
 
 link to the work:
 https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/return_largest_number_in_arrays.js
+
+##Day 39 2/12/2017##
+**Today's progress:** super tired and tempted to take a coding Sabbath, but pushed through an FCC algorithm challenge. Wrote some ugly but functional JavaScript that passed the test conditions woo hoo!  This was definitiely a day I would not have managed time to code, if I hadn't committed to the 100DOC.
+
+link to the work:
+https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/confirm_the_ending.js
