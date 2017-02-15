@@ -196,3 +196,9 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/
 
 link to the work:
 https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/confirm_the_ending.js
+
+## Day 40 2/13/2017##
+**Today's progress:** Finally started back on watchandcode, reviewing from beginning, while also doing at least one FCC basic JS algorithm challenge each day.
+
+Link to the work:
+https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/repeat_a_string.js
