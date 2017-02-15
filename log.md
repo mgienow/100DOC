@@ -202,3 +202,10 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/
 
 Link to the work:
 https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/repeat_a_string.js
+
+
+##Day 41 2/14/2017##
+**TOday's progress** inching along on watchandcode review and another FCC algorithm challenge that went down reasonably easily considering it's late and i'm tired from a long day!
+
+link to the work:
+https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/truncate_a_string.js
