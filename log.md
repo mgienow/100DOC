@@ -209,3 +209,7 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/
 
 link to the work:
 https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/truncate_a_string.js
+
+##Day 42##
+**Today's progress:** still inching along on watchandcode practical javascript.
+ 
