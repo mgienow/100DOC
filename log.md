@@ -212,4 +212,8 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/
 
 ##Day 42##
 **Today's progress:** still inching along on watchandcode practical javascript.
+
+##Day 43##
+**Today's progress:** yet again, still inching along in watch and code, still reviewing previous progress.  and doing an FCC algorithm challenge each day.
+
  
