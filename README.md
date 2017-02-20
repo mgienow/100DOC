@@ -1,4 +1,4 @@
-# My name is Michelle Gienow. I am a front end web developer in Baltimore, MD and I've joined the #100DaysOfCode Challenge.
+# My name is Michelle Gienow. I am a front end web developer in Baltimore, MD, US and I've joined the #100DaysOfCode Challenge.
 
 ## Contents
 * [Rules](rules.md)

@@ -210,10 +210,14 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/
 link to the work:
 https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/truncate_a_string.js
 
-##Day 42##
+##Day 42## 2/15/2017
 **Today's progress:** still inching along on watchandcode practical javascript.
 
-##Day 43##
+##Day 43 2/16/2017##
 **Today's progress:** yet again, still inching along in watch and code, still reviewing previous progress.  and doing an FCC algorithm challenge each day.
 
- 
+##Day 44 2/17/2017##
+**Today's progress:** Miraculously achieve success on first try of a Free Code Camp JS algo challenge! Also downloaded/installed Ruby to prep for a Rails workshop tomorrow.
+
+link to the work:
+https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/d14e1a63325635a0c2f54f462710d98f9fe6cd56
