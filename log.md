@@ -236,3 +236,6 @@ https://github.com/mgienow/Ruby-Bookstore
 
 link to the work:
 https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/aa56a8df47b232a3abd09bb05d2cd73796784bc9
+## Day 47 extra credit##
+Finished the next section in the Rails tutorial -- adding an edit in the browser feature to the bookstore app -- and then solved my first Ruby kata on codewars.  
+https://github.com/mgienow/My-Codewars-Kata-Solutions-RUBY
