@@ -223,7 +223,10 @@ link to the work:
 https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/d14e1a63325635a0c2f54f462710d98f9fe6cd56
 
 ##Day 45 2/18/2017##
-**Today's progress:** Ten hour code-a-thon at Bmore On Rails!  I learned the basics of Ruby and then got started building an app using the Rails framework.
+**Today's progress:** Ten hour code-a-thon at Bmore On Rails!  I learned the basics of Ruby and then got started building an app using the Rails framework.  This was also the day my laptop's motherboard died, so I did all this on an eentsy loaner mac air using an unfamiliar dev platform!
 
 link to the work:
 https://github.com/mgienow/Ruby-Bookstore
+
+##Day 46 2/19/2017##
+**Today's progress:** More progress on the Ruby bookstore app. Today I built out the browser interface for adding new books.
