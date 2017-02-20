@@ -221,3 +221,9 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/
 
 link to the work:
 https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/d14e1a63325635a0c2f54f462710d98f9fe6cd56
+
+##Day 45 2/18/2017##
+**Today's progress:** Ten hour code-a-thon at Bmore On Rails!  I learned the basics of Ruby and then got started building an app using the Rails framework.
+
+link to the work:
+https://github.com/mgienow/Ruby-Bookstore
