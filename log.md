@@ -242,3 +242,7 @@ https://github.com/mgienow/My-Codewars-Kata-Solutions-RUBY
 
 ##Day 48## 2/21/17
 **Today's progress** Yet more Rails app progress, styling the app and linking pages to one another, and another FCC algo challenge.
+##Day 49 ## 2/22/17
+**Today's progress** Learned about the power of the argument object in JS, pretty cool!  Bascially, you can take arguments passed into a function and treat them sort of like an array: the arguments take the length property, and can be converted to an array if you need to access or manipulate them.
+
+link to the work: https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/b55092a3983b7cb7c9af6819fa15c71ae94fd9b6
