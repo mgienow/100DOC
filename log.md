@@ -246,3 +246,11 @@ https://github.com/mgienow/My-Codewars-Kata-Solutions-RUBY
 **Today's progress** Learned about the power of the argument object in JS, pretty cool!  Bascially, you can take arguments passed into a function and treat them sort of like an array: the arguments take the length property, and can be converted to an array if you need to access or manipulate them.
 
 link to the work: https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/b55092a3983b7cb7c9af6819fa15c71ae94fd9b6
+
+###DAY 50  HALFWAY THERE!!!!! ###
+**Today's Progress:** feeling enormously proud of myself for achieving the halfway point of 100 Days of Code challenge -- and grateful that I undertook this commitment.  It has been so valuable. Not only am I making progress toward my goals, it has helped me truly begin to believe in myself as a coder.
+
+So far today, I have done an FCC challenge and learned, again, about the Array.prototype.sort() method.  How best approach, if you want an ascending array of integers, is to use a callback: arr.sort(function(a,b) { return a-b;});
+
+link to that work:
+https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/where_do_i_belong.js
