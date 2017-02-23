@@ -231,7 +231,7 @@ https://github.com/mgienow/Ruby-Bookstore
 ##Day 46 2/19/2017##
 **Today's progress:** More progress on the Ruby bookstore app. Today I built out the browser interface for adding new books.
 
-##Day 47##
+##Day 47## 2/20/2017
 **TOday's progress:** Much time spent tracking down parts so my brother can repair my laptop. (Thanks, Kev!). But also bashed my way thru anpother FCC algorithm, "Mutations". I had it right fairly quickly but spent maybe an extr 45 min trying to figure out why it wasn't working -- it was because i was testing it wrong!  passing in mutations("hello", "hey") instead of mutations(["hello", "hey"]) -- those array brackets make a BIG difference, lol
 
 link to the work:
@@ -239,3 +239,6 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/aa56a
 ## Day 47 extra credit##
 Finished the next section in the Rails tutorial -- adding an edit in the browser feature to the bookstore app -- and then solved my first Ruby kata on codewars.  
 https://github.com/mgienow/My-Codewars-Kata-Solutions-RUBY
+
+##Day 48## 2/21/17
+**Today's progress** Yet more Rails app progress, styling the app and linking pages to one another, and another FCC algo challenge.
