@@ -254,3 +254,6 @@ So far today, I have done an FCC challenge and learned, again, about the Array.p
 
 link to that work:
 https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/where_do_i_belong.js
+
+##Day 51 2/24/2017 ##
+**Today's progress** Just chapters 4 and most of 5 in watch and code. sigh.  
