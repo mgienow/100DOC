@@ -257,3 +257,6 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/
 
 ##Day 51 2/24/2017 ##
 **Today's progress** Just chapters 4 and most of 5 in watch and code. sigh.  
+
+##Day 52 2/25/2017##
+**Today's progress** is kind of that I sat down to do any coding whatsoever. A busy Saturday with friends staying over, other friends coming for dinner later, and going to buy baby chicks and set up their accomodations in between.  Laid out workflow for Final FCC JS algo challenge, and played around with .charCodeAt() and String.fromCharCode().
