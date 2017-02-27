@@ -267,7 +267,7 @@ I ended up taking a much needed Sabbath from coding (as well as computers) today
 
 
 ##Day 53 2/27/2017 ##
-**Today's progress** Came back this morning refreshed and re-energized, and solved what yesterday had felt like an impossible challenge in less than an hour -- including pushing a well-commented solution to github!
+**Today's progress** Came back this morning refreshed and re-energized, and solved what yesterday had felt like an impossible challenge in less than an hour -- including pushing a well-commented solution to github!  I am very excited to be finished this 50 hour section of the FCC curriculum; I solved the 17 challenges in 19 days, mainly doing one a day. Some took two days, a few I managed to do two in one day. BUT I DID IT!!!!!  In large part thanks to the 100 DOC commitment.
 
 link to the work:
 https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/9069124b7a32d4e542e78612b5fea040b2cd38be
