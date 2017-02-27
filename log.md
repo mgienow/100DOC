@@ -260,3 +260,9 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/
 
 ##Day 52 2/25/2017##
 **Today's progress** is kind of that I sat down to do any coding whatsoever. A busy Saturday with friends staying over, other friends coming for dinner later, and going to buy baby chicks and set up their accomodations in between.  Laid out workflow for Final FCC JS algo challenge, and played around with .charCodeAt() and String.fromCharCode().
+
+##Day 53 2/27/2017 ##
+**Today's progress** I ended up taking a much needed Sabbath from coding (as well as computers) yesterday. I did sit down first thing in the morning to try to work on the final FCC challenge and my brain just would not engage. I was feeling pretty tired and burned out in general and decided that rather than fight through it, what I needed more was a day of rest and focusing on being with my family.  So I did that, came back this morning refreshed and re-energized, and solved what yesterday had felt like an impossible challenge in less than an hour -- including pushing a well-commented solution to github!
+
+link to the work:
+https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/9069124b7a32d4e542e78612b5fea040b2cd38be
