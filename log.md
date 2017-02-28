@@ -271,3 +271,6 @@ I ended up taking a much needed Sabbath from coding (as well as computers) today
 
 link to the work:
 https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/9069124b7a32d4e542e78612b5fea040b2cd38be
+
+#Day 54 2/28/2017 ##
+**Today's progress** Reviewed FCC jQuery section and started JSON APIs. Exciting stuff!  Also wrote a piece about open source tax modeling for TNS. Less exciting stuff. But paying the bills is exciting, so.  
