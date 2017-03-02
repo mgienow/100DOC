@@ -210,10 +210,70 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/
 link to the work:
 https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/truncate_a_string.js
 
-##Day 42##
+##Day 42## 2/15/2017
 **Today's progress:** still inching along on watchandcode practical javascript.
 
-##Day 43##
+##Day 43 2/16/2017##
 **Today's progress:** yet again, still inching along in watch and code, still reviewing previous progress.  and doing an FCC algorithm challenge each day.
 
- 
+##Day 44 2/17/2017##
+**Today's progress:** Miraculously achieve success on first try of a Free Code Camp JS algo challenge! Also downloaded/installed Ruby to prep for a Rails workshop tomorrow.
+
+link to the work:
+https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/d14e1a63325635a0c2f54f462710d98f9fe6cd56
+
+##Day 45 2/18/2017##
+**Today's progress:** Ten hour code-a-thon at Bmore On Rails!  I learned the basics of Ruby and then got started building an app using the Rails framework.  This was also the day my laptop's motherboard died, so I did all this on an eentsy loaner mac air using an unfamiliar dev platform!
+
+link to the work:
+https://github.com/mgienow/Ruby-Bookstore
+
+##Day 46 2/19/2017##
+**Today's progress:** More progress on the Ruby bookstore app. Today I built out the browser interface for adding new books.
+
+##Day 47## 2/20/2017
+**TOday's progress:** Much time spent tracking down parts so my brother can repair my laptop. (Thanks, Kev!). But also bashed my way thru anpother FCC algorithm, "Mutations". I had it right fairly quickly but spent maybe an extr 45 min trying to figure out why it wasn't working -- it was because i was testing it wrong!  passing in mutations("hello", "hey") instead of mutations(["hello", "hey"]) -- those array brackets make a BIG difference, lol
+
+link to the work:
+https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/aa56a8df47b232a3abd09bb05d2cd73796784bc9
+## Day 47 extra credit##
+Finished the next section in the Rails tutorial -- adding an edit in the browser feature to the bookstore app -- and then solved my first Ruby kata on codewars.  
+https://github.com/mgienow/My-Codewars-Kata-Solutions-RUBY
+
+##Day 48## 2/21/17
+**Today's progress** Yet more Rails app progress, styling the app and linking pages to one another, and another FCC algo challenge.
+##Day 49 ## 2/22/17
+**Today's progress** Learned about the power of the argument object in JS, pretty cool!  Bascially, you can take arguments passed into a function and treat them sort of like an array: the arguments take the length property, and can be converted to an array if you need to access or manipulate them.
+
+link to the work: https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/b55092a3983b7cb7c9af6819fa15c71ae94fd9b6
+
+###DAY 50  HALFWAY THERE!!!!! ###
+**Today's Progress:** feeling enormously proud of myself for achieving the halfway point of 100 Days of Code challenge -- and grateful that I undertook this commitment.  It has been so valuable. Not only am I making progress toward my goals, it has helped me truly begin to believe in myself as a coder.
+
+So far today, I have done an FCC challenge and learned, again, about the Array.prototype.sort() method.  How best approach, if you want an ascending array of integers, is to use a callback: arr.sort(function(a,b) { return a-b;});
+
+link to that work:
+https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/blob/master/where_do_i_belong.js
+
+##Day 51 2/24/2017 ##
+**Today's progress** Just chapters 4 and most of 5 in watch and code. sigh.  
+
+##Day 52 2/25/2017##
+**Today's progress** is kind of that I sat down to do any coding whatsoever. A busy Saturday with friends staying over, other friends coming for dinner later, and going to buy baby chicks and set up their accomodations in between.  Laid out workflow for Final FCC JS algo challenge, and played around with .charCodeAt() and String.fromCharCode().
+
+
+##Lacuna: 2/26/2017##
+I ended up taking a much needed Sabbath from coding (as well as computers) today. I did sit down first thing in the morning to try to work on the final FCC challenge and my brain just would not engage. I was nearly in tears, feeling pretty tired and burned out in general and decided that rather than fight through it, what I needed more was a day of rest and focusing on being with my family. I believe in this challenge and I don't skip days unless there is a truly compelling reason. However, discretion is the better part of valor.  
+
+
+##Day 53 2/27/2017 ##
+**Today's progress** Came back this morning refreshed and re-energized, and solved what yesterday had felt like an impossible challenge in less than an hour -- including pushing a well-commented solution to github!  I am very excited to be finished this 50 hour section of the FCC curriculum; I solved the 17 challenges in 19 days, mainly doing one a day. Some took two days, a few I managed to do two in one day. BUT I DID IT!!!!!  In large part thanks to the 100 DOC commitment.
+
+link to the work:
+https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/9069124b7a32d4e542e78612b5fea040b2cd38be
+
+#Day 54 2/28/2017 ##
+**Today's progress** Reviewed FCC jQuery section and started JSON APIs. Exciting stuff!  Also wrote a piece about open source tax modeling for TNS. Less exciting stuff. But paying the bills is exciting, so.  
+
+## Day 55 3/1/2017 ##
+**Today's progress** A very long travel day with no computer time, got to hotel and took a shot at a codewars kata just to have some javascript time. i'm so tired that i'm cross-eyed and don't expect any new FCC or watch and code material would stick in my brain.  Today's main coding achievement is that I made time to do it at all. 
