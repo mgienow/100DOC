@@ -274,6 +274,9 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/90691
 
 #Day 54 2/28/2017 ##
 **Today's progress** Reviewed FCC jQuery section and started JSON APIs. Exciting stuff!  Also wrote a piece about open source tax modeling for TNS. Less exciting stuff. But paying the bills is exciting, so.  
+<<<<<<< HEAD
 
 ## Day 55 3/1/2017 ##
 **Today's progress** A very long travel day with no computer time, got to hotel and took a shot at a codewars kata just to have some javascript time. i'm so tired that i'm cross-eyed and don't expect any new FCC or watch and code material would stick in my brain.  Today's main coding achievement is that I made time to do it at all. 
+=======
+>>>>>>> c91d31247e1d332437fbe3b37e7ba7c70ef14948
