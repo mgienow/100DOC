@@ -277,6 +277,12 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/90691
 <<<<<<< HEAD
 
 ## Day 55 3/1/2017 ##
-**Today's progress** A very long travel day with no computer time, got to hotel and took a shot at a codewars kata just to have some javascript time. i'm so tired that i'm cross-eyed and don't expect any new FCC or watch and code material would stick in my brain.  Today's main coding achievement is that I made time to do it at all. 
+**Today's progress** A very long travel day with no computer time, got to hotel and took a shot at a codewars kata just to have some javascript time. i'm so tired that i'm cross-eyed and don't expect any new FCC or watch and code material would stick in my brain.  Today's main coding achievement is that I made time to do it at all.
+## Day 56 3/2/2017 ##
+**Today's progress:** Traveling, so still not much coding time. Figured out the codewars kata I struggled with yesterday and read an interesting piece about not using conditionals in JS -- for long chains of switch or if/else statements - when you can use a dispatch table, which is basically an object format for decision making scenarios.
+
+link to the work: https://github.com/mgienow/Codewars-exercises/blob/master/museum_of_dull_things.js
+
+
 =======
 >>>>>>> c91d31247e1d332437fbe3b37e7ba7c70ef14948
