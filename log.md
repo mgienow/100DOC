@@ -283,6 +283,11 @@ https://github.com/mgienow/Free-Code-Camp-Basic-Algorithm-Scripting/commit/90691
 
 link to the work: https://github.com/mgienow/Codewars-exercises/blob/master/museum_of_dull_things.js
 
+##Day 57 3/3/2017##
+**Today's progress:** Still on the road. Got back to hotel room at 8:30 and managed a very easy codewars Ruby challenge.  Made harder by the fact that this particular kata wanted you to write your own test cases, which I have no idea how to do in Ruby.  But I like Ruby and would like to tinker around with it even while concentrating mainly on JS.
+
+link to the work:
+https://github.com/mgienow/My-Codewars-Kata-Solutions-RUBY
 
 =======
 >>>>>>> c91d31247e1d332437fbe3b37e7ba7c70ef14948
