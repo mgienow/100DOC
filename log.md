@@ -290,4 +290,6 @@ link to the work:
 https://github.com/mgienow/My-Codewars-Kata-Solutions-RUBY
 
 =======
+##Day 58 3/5/2017##
+**Today's progress** Yesterday was just crazy busy, from a very early start to a very late finish, and literally, really, no time to code.  So I made up for it today with at least three solid hours working on Practical Javascript app building and a bit more FCC JSON/Ajax.  I wish I did not have to stop now!
 >>>>>>> c91d31247e1d332437fbe3b37e7ba7c70ef14948
