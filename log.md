@@ -294,3 +294,6 @@ https://github.com/mgienow/My-Codewars-Kata-Solutions-RUBY
 **Today's progress** Yesterday was just crazy busy, from a very early start to a very late finish, and literally, really, no time to code.  So I made up for it today with at least three solid hours working on Practical Javascript app building and a bit more FCC JSON/Ajax.  I wish I did not have to stop now!
 ##Day 59 3/6/2017 ##
 **Today's Progress** Another day of writing on deadline, running out the door to get the boys from school and get to robotics club, then coding while drones buzz my head. Just about finished the FCC JSON/Ajax section, and I saw that next up is app building -- 100 hours, yikes.
+##Day 60 3/7/2017##
+**Today's progress** Finished the FCC JSON section, feeling like I am barely starting to grasp the material. I wish it was done in vanilla JS instead of needing to wrestle simultaneously with new concepts (manipulating the DOM) AND a new language overlay (jQuery).  Now staring down the barrel of three new apps to build for the next required section. Fortunately I'm not alone - my JS study group pal Asa has made it to the same point in FCC and is ready to take on a new project himself, so we are going to work in parallel and support each other.
+ 
