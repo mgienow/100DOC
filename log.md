@@ -303,3 +303,6 @@ https://github.com/mgienow/My-Codewars-Kata-Solutions-RUBY
 **Today's progress** Finished Watch and Code practical javascript section on debugging -- VERY interesting, and will be a valuable tool in my upcoming struggles with FCC app building projects I am sure!  Then just to keep a hand in I took a quick hit at one of this week's Codewars Coffee&&Code challenges, an easy one because i don't have much time.
 
 link to the work: https://github.com/mgienow/Codewars-exercises/blob/master/to_square_root_or_not.js
+
+##Day 62 3/9/2017##
+**Today's Progress** Major progress in watch and code. I am comprehending most of what is happening upon first exposure, which feels good. And then able to, after the first "requirement" of a new section has been walked thru, able to work ahead to do the next requirements on my own. And then figure out all the nitpicky little ways I messed up code continuity, sigh. Forgotetting the `()` after an IFFE, dropping a letter from an object key name, that kind of sloppy stuff.  But I got through it and feel really good!  My plan is to finish this basic Practica JS course and then get towork next week on my own from-scratch app, having been walked thru an app build first. I feel a bit less intimidated.
