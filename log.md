@@ -306,3 +306,8 @@ link to the work: https://github.com/mgienow/Codewars-exercises/blob/master/to_s
 
 ##Day 62 3/9/2017##
 **Today's Progress** Major progress in watch and code. I am comprehending most of what is happening upon first exposure, which feels good. And then able to, after the first "requirement" of a new section has been walked thru, able to work ahead to do the next requirements on my own. And then figure out all the nitpicky little ways I messed up code continuity, sigh. Forgotetting the `()` after an IFFE, dropping a letter from an object key name, that kind of sloppy stuff.  But I got through it and feel really good!  My plan is to finish this basic Practica JS course and then get towork next week on my own from-scratch app, having been walked thru an app build first. I feel a bit less intimidated.
+
+##Day 63 3/10/2017##
+**Today's progress** Inching ever forward in watchand code. Learned different JS methods for reaching into the DOM and manipulating markup: createElement(); document.querySelector(); .appendChild() for adding elements to a parent element; .innerHTML to grab whatever HTML resides inside the target element.
+
+link to the work: http://plnkr.co/edit/rwsOrzJ6T9l1Ck24CJ3U?p=info
