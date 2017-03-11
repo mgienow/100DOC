@@ -311,3 +311,6 @@ link to the work: https://github.com/mgienow/Codewars-exercises/blob/master/to_s
 **Today's progress** Inching ever forward in watchand code. Learned different JS methods for reaching into the DOM and manipulating markup: createElement(); document.querySelector(); .appendChild() for adding elements to a parent element; .innerHTML to grab whatever HTML resides inside the target element.
 
 link to the work: http://plnkr.co/edit/rwsOrzJ6T9l1Ck24CJ3U?p=info
+
+##Day 64 3/11/2017##
+**Today's progress** Another inch or two in watch and code. I'm taking this very, very slowly and going over the code multiple times because (a) this is new material for me and (b) because i know very soon i will be using it to build my own app from scratch.  So today I learned about putting text into the DOM via JS instead of by altering the markup.  Really cool stuff.
