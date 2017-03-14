@@ -317,3 +317,8 @@ link to the work: http://plnkr.co/edit/rwsOrzJ6T9l1Ck24CJ3U?p=info
 
 ##Day 65 3/13/2017##
 **Today's progress** Took yesterday as a Sabbath day of rest to spend focused time with family. Came back to coding today reinvigorated and ready to make real progress in Watch and Code. Took a bit of a crack at a codewars challenge.  
+
+##Day 66 3/14/2017##
+**TOday's progress** Happy Pi Day!  Also happy snow/ice storm day.  WOrk today disrupted by weather and kids home from school. Did manage to solve yesterday's codewars challenge, see below, and sort out a mess I had made between github and file versions on two different computers. afraid that will be all until tomorrow though :(
+
+  link to the work: https://github.com/mgienow/Codewars-exercises/blob/master/the_shell_game.js
