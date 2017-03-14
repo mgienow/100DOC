@@ -314,3 +314,6 @@ link to the work: http://plnkr.co/edit/rwsOrzJ6T9l1Ck24CJ3U?p=info
 
 ##Day 64 3/11/2017##
 **Today's progress** Another inch or two in watch and code. I'm taking this very, very slowly and going over the code multiple times because (a) this is new material for me and (b) because i know very soon i will be using it to build my own app from scratch.  So today I learned about putting text into the DOM via JS instead of by altering the markup.  Really cool stuff.
+
+##Day 65 3/13/2017##
+**Today's progress** Took yesterday as a Sabbath day of rest to spend focused time with family. Came back to coding today reinvigorated and ready to make real progress in Watch and Code. Took a bit of a crack at a codewars challenge.  
