@@ -322,3 +322,8 @@ link to the work: http://plnkr.co/edit/rwsOrzJ6T9l1Ck24CJ3U?p=info
 **TOday's progress** Happy Pi Day!  Also happy snow/ice storm day.  WOrk today disrupted by weather and kids home from school. Did manage to solve yesterday's codewars challenge, see below, and sort out a mess I had made between github and file versions on two different computers. afraid that will be all until tomorrow though :(
 
   link to the work: https://github.com/mgienow/Codewars-exercises/blob/master/the_shell_game.js
+
+##Day 67 3/16/2017##
+**Today's progress** missed yesterday due to snow day chaos, kids at home, all the work and organization required for going out of town, etc. I feel bad because this was not an intentional miss, the kind where I deliberately take a Sabbath from coding because I need a break and want to focus on family. This was not an intentional break, just a busy day with lots of demands for my time and attention where I did not say, you all have to wait while I do at least one hour of coding.  But! Moving on, I did have a productive day today. Got some mentoring from Tom, challenging me with some object-oriented JS code and pushing me to really think through my choices. Then did an interview and wrote up and filed a story about an internet mocking tool newly released by LinkedIn's engineering tream. Then did some more WatchandCode learning about running functions as parameters inside other functions.  Just one section, because I am almost out of time and wanted to push all the W&C stuff I've been doing to GH.  I can't believe it did not occur to me to do this before and track all my progress that way AND get credit for it!  Anyway, here it is.
+
+link to the work: https://github.com/mgienow/ToDo-List
